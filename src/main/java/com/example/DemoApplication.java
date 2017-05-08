@@ -15,6 +15,9 @@ public class DemoApplication {
 	}
 
 
+	public String hello(){
+		return "";
+	}
 	public String fuck(){
 		return "hello";
 	}
